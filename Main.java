@@ -21,7 +21,7 @@ public class Main
         System.out.println("Please enter the width: ");
         // read value from user 
         double w = input.nextDouble();
-        // put width box 
+        // put width in box 
         box.setWidth(w);
         
         // display the area 
