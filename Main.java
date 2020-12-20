@@ -14,12 +14,14 @@ public class Main
         System.out.print("Please enter the length:\n");  
         // read value from user 
         double l = input.nextDouble();
+        // put length in box
         box.setLength(l);
         
         // prompt 
         System.out.println("Please enter the width: ");
         // read value from user 
         double w = input.nextDouble();
+        // put width box 
         box.setWidth(w);
         
         // display the area 
